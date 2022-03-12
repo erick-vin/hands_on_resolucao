@@ -1,4 +1,4 @@
-# Cantidado: Erick Vinicius.
+# Cantidato: Erick Vinicius.
 # Resolução dos exercicios propostos para o processo seletivo.
 
 # ---------------
