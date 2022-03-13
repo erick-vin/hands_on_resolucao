@@ -7,7 +7,7 @@
 
 puts "============================================= \n"
 puts "Atividade 1 \n\n"
-puts "Me diga um número n, que eu tirei os valores impares positivos abaixo dele."
+puts "Me diga um número n, que eu direi os valores impares positivos abaixo dele."
 print "Digite o valor de n: "
 n = gets.chomp.to_i
 n -= 1
